@@ -1,0 +1,24 @@
+{
+  "name": "leetcode-fe",
+  "version": "1.0.0",
+  "description": "leetcode 前端刷题指南",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brightLian/leetcode-FE.git"
+  },
+  "author": "brightLian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brightLian/leetcode-FE/issues"
+  },
+  "homepage": "https://github.com/brightLian/leetcode-FE#readme",
+  "devDependencies": {
+    "@vuepress/plugin-search": "^2.0.0-beta.27",
+    "vuepress": "^2.0.0-beta.27"
+  }
+}
